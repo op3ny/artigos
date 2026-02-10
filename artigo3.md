@@ -79,5 +79,3 @@ E-mail: thaisdzini@proton.me / thais@hsyst.org
 Discord: op3n
 GitHub: github.com/op3ny
 
---> Versão original
-Deseja ver o rascunho do artigo, antes de ser revisado? https://github.com/op3ny/artigos/blob/main/artigo2.md
