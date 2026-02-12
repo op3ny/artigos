@@ -6,6 +6,9 @@ Olá leitor(a)! É um prazer ter você aqui! Neste repositório, eu guardo basic
 
 ---
 Título: "Neutralidade: O mito da programação"
+---
+
+---
 Descrição: "Sendo considerado o fim da trilogia de artigos sobre a programação além do código, vamos falar sobre o por quê todos os softwares não são neutros, e por que isso importa."
 ---
 
